@@ -1,0 +1,33 @@
+{
+  "name": "ng-raven",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Minimal CommonJS implementation of Raven + Angular",
+  "license": "MIT",
+  "repository": "bendrucker/angular-raven",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "angular",
+    "raven",
+    "browserify"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.2",
+    "raven-js": "~1.1.19",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "raven-js": ">=1 <=2",
+    "angular": ">=1.3 <=1.5"
+  }
+}
