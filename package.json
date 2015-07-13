@@ -1,7 +1,7 @@
 {
   "name": "ng-raven",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Minimal CommonJS implementation of Raven + Angular",
   "license": "MIT",
   "repository": "bendrucker/angular-raven",
