@@ -9,7 +9,7 @@ module.exports = angular.module('ngRaven', [])
 
 registerDecorator.$inject = ['$provide']
 function registerDecorator ($provide) {
-  $provide.decorator('$exceptionHandler', ngRavenExceptionHandler)
+  $provide.decorator('$exceptionHandler', decorateExceptionHandler)
 }
 
 decorateExceptionHandler.$inject = ['$delegate']
