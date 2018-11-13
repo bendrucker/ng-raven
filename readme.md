@@ -1,4 +1,4 @@
-# ng-raven [![Build Status](https://travis-ci.org/bendrucker/ng-raven.svg?branch=master)](https://travis-ci.org/bendrucker/ng-raven)
+# ng-raven [![Build Status](https://travis-ci.org/bendrucker/ng-raven.svg?branch=master)](https://travis-ci.org/bendrucker/ng-raven) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/ng-raven.svg)](https://greenkeeper.io/)
 
 > Minimal CommonJS implementation of Raven + Angular
 
